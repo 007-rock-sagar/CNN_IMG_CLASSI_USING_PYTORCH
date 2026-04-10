@@ -5,7 +5,7 @@ from utils import load_model, preprocess_image
 from streamlit_drawable_canvas import st_canvas
 
 # Load your trained model (adjust path if needed)
-model = load_model("mnist_cnn.pth")
+model = load_model("app/mnist_cnn.pth")
 
 
 st.title("🖼️ CNN Image Classifier (PyTorch)")
