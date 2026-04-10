@@ -1,7 +1,6 @@
 torch
 torchvision
-flask
 streamlit
-pillow
+streamlit-drawable-canvas
+Pillow
 numpy
-pandas
